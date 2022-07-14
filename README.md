@@ -1,12 +1,12 @@
 ![header](https://user-images.githubusercontent.com/83948828/178987610-77546a34-5c33-4c60-b228-7e46127c0aae.png)
 
-#### 👦🏻 `Bio:`
+#### 👦🏻 Bio:
 
 - 🎓 I am currently studying at ITMO University.
 - 🔭 I have a keen interest in Machine Learning, Computer Vision and Natural Language Processing.
 - 🌱 I’m currently working on [NeuroFace](https://github.com/mdvdv/neuroface) framework.
 
-#### 🕹️ `Tools:`
+#### 🕹️ Tools:
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -14,13 +14,13 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-#### 📈 `Stats:`
+#### 📈 Stats:
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mdvdv&hide=jupyter notebook&theme=dark' height='150' alt='Top Langs'> <img src='https://github-readme-streak-stats.herokuapp.com/?user=mdvdv&theme=dark' height='150' alt='GitHub streak stats'>
 
 <details>
 
-<summary><h4>🥇 <span style='background-color: #FFFFCC'>Skills:</span></h4></summary>
+<summary><h4>🥇 Skills:</h4></summary>
 
 <table>
   <thead>
