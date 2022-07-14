@@ -22,38 +22,66 @@
 #### 🥇 `Skills:`
 
 <table>
-<thead>
-<tr>
-<th>Course</th>
-<th>Organization</th>
-<th>Foundation</th>
-<th>Year</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Convolutional Neural Networks</b></td>
-<td>Coursera</td>
-<td>Foundation</td>
-<td>2022</td>
-<td>In progress</td>
-</tr>
-<tr>
-<td><b>Deep neural networks with pytorch</b></td>
-<td>Coursera, IBM</td>
-<td>Foundation</td>
-<td>2021</td>
-<td><a href='https://drive.google.com/uc?export=view&id=1AIZjSoHb1hn8jPH1nmvjGKuriPmVc5UE'>Completed</a></td>
-</tr>
-<tr>
-<td><b>Data Analyst</b></td>
-<td>Practicum, Yandex</td>
-<td>Foundation</td>
-<td>2021</td>
-<td><a href='https://drive.google.com/uc?export=view&id=168ymXX8WGMn7urqAAcY1bM-jsbaRhlek'>Completed</a></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Course</th>
+      <th>Organization</th>
+      <th>Foundation</th>
+      <th>Year</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Convolutional Neural Networks</b></td>
+      <td>Coursera, DeepLearning.AI</td>
+      <td>
+        <ul>
+          <ol>
+            <li>Convolutional Neural Networks</li>
+            <li>Deep Convolutional Models</li>
+            <li>Object Detection</li>
+            <li>Neural Style Transfer</li>
+          </ol>
+        </ul>
+      </td>
+      <td>2022</td>
+      <td>In progress</td>
+    </tr>
+    <tr>
+      <td><b>Deep neural networks with pytorch</b></td>
+      <td>Coursera, IBM</td>
+      <td>
+        <ul>
+          <ol>
+            <li>Fundamentals of PyTorch</li>
+            <li>Neural Network Mathematics</li>
+            <li>Regression and Classification</li>
+            <li>Convolutional Neural Networks</li>
+          </ol>
+        </ul>
+      </td>
+      <td>2021</td>
+      <td><a href='https://drive.google.com/uc?export=view&id=1AIZjSoHb1hn8jPH1nmvjGKuriPmVc5UE'>Completed</a></td>
+    </tr>
+    <tr>
+      <td><b>Data Analyst</b></td>
+      <td>Practicum, Yandex</td>
+      <td>
+        <ul>
+          <ol>
+            <li>Fundamentals of Python and Data Analysis</li>
+            <li>Data Preprocessing</li>
+            <li>Exploratory Data Analysis</li>
+            <li>Statistical Data Analysis</li>
+            <li>Data Collection and Storage</li>
+          </ol>
+        </ul>
+      </td>
+      <td>2021</td>
+      <td><a href='https://drive.google.com/uc?export=view&id=168ymXX8WGMn7urqAAcY1bM-jsbaRhlek'>Completed</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!--
