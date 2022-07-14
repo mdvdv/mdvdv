@@ -21,7 +21,7 @@
 
 #### 🥇 `Skills:`
 
-<table width='500'>
+<table width=500>
   <thead>
     <tr>
       <th>Course</th>
