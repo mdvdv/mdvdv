@@ -18,7 +18,7 @@
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mdvdv&hide=jupyter notebook&theme=dark' height='150' alt='Top Langs'> <img src='https://github-readme-streak-stats.herokuapp.com/?user=mdvdv&theme=dark' height='150' alt='GitHub streak stats'>
 
-
+<details>
 #### 🥇 `Skills:`
 
 <table>
@@ -77,7 +77,7 @@
     </tr>
   </tbody>
 </table>
-
+</details>
 <!--
 **mdvdv/mdvdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
