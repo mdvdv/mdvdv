@@ -47,7 +47,7 @@
       <td>In progress</td>
     </tr>
     <tr>
-      <td><b>Deep neural networks with pytorch</b></td>
+      <td><b>Deep Neural Networks with PyTorch</b></td>
       <td>Coursera, IBM</td>
       <td>
         <ul>
