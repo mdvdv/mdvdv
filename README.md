@@ -69,13 +69,11 @@
       <td>Practicum, Yandex</td>
       <td>
         <ul>
-          <ol>
             <li>Fundamentals of Python and Data Analysis</li>
             <li>Data Preprocessing</li>
             <li>Exploratory Data Analysis</li>
             <li>Statistical Data Analysis</li>
             <li>Data Collection and Storage</li>
-          </ol>
         </ul>
       </td>
       <td>2021</td>
