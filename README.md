@@ -20,7 +20,7 @@
 
 <details>
 
-<summary><h4>🥇 `Skills:`</h4></summary>
+<summary><h4>🥇 <span style='background-color: #FFFFCC'>Skills:</span></h4></summary>
 
 <table>
   <thead>
