@@ -37,12 +37,10 @@
       <td>Coursera, DeepLearning.AI</td>
       <td>
         <ul>
-          <ol>
             <li>Convolutional Neural Networks</li>
             <li>Deep Convolutional Models</li>
             <li>Object Detection</li>
             <li>Neural Style Transfer</li>
-          </ol>
         </ul>
       </td>
       <td>2022</td>
@@ -53,12 +51,10 @@
       <td>Coursera, IBM</td>
       <td>
         <ul>
-          <ol>
             <li>Fundamentals of PyTorch</li>
             <li>Neural Network Mathematics</li>
             <li>Regression and Classification</li>
             <li>Convolutional Neural Networks</li>
-          </ol>
         </ul>
       </td>
       <td>2021</td>
