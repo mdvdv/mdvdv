@@ -16,7 +16,7 @@
 
 #### 📈 Stats:
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mdvdv&hide=jupyter notebook&theme=dark' height='150' alt='Top Langs'> <img src='https://github-readme-streak-stats.herokuapp.com/?user=mdvdv&theme=dark' height='150' alt='GitHub streak stats'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mdvdv&hide=jupyter notebook, shell&theme=dark' height='150' alt='Top Langs'> <img src='https://github-readme-streak-stats.herokuapp.com/?user=mdvdv&theme=dark' height='150' alt='GitHub streak stats'>
 
 <details>
 
