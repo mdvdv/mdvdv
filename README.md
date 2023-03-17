@@ -16,9 +16,7 @@
 
 #### 📈 Stats:
 
-<div align="left">
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdvdv&hide_border=true&theme=transparent)
-</div>
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdvdv&hide_border=true&theme=transparent)
 
 <!--
 **mdvdv/mdvdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
